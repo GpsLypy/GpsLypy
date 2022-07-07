@@ -75,7 +75,7 @@
 
 - 👯 公众号：『[前途光明的小工程师](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)』
 
-- 💬 个人微信：『[coderxiu2](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202204281304520.png)』
+- 💬 个人微信：『[coderli](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202204281304520.png)』
 -->
 - :clap: 尽情拥抱开源时代，享受IT技术带给我们的**Amazing**体验 
 
