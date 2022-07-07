@@ -72,7 +72,6 @@
 
 - 🌱 自学经历：[逆袭？NO！只是多了一点坚持！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247490699&idx=1&sn=0f7a1ee4100a310d679f5ab84fbfa3bc&chksm=ce25e0f6f95269e08c740d212bc7b0d7a4f9a5c01b9a5fff7ed92c30f2348638a3b0c829374e&scene=178&cur_album_id=1738665691953594370#rd)
 
-- :dog: 知乎：『[拓跋阿秀](https://www.zhihu.com/people/tuo-ba-a-xiu/answers)』
 
 - 👯 公众号：『[拓拔阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)』
 
