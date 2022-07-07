@@ -1,4 +1,4 @@
-<h1 align="center">:cn: :octopus: Escape Wen 👋</h1>
+<h1 align="center">:cn: :octopus: 想名字多费事 👋</h1>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -44,7 +44,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=escapelife&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-🤗 &nbsp;你好~ 我是 [**Escape**](https://www.escapelife.site/)，目前生活在西安，略懂点技术，也会写点代码！之前在 **饿了么 [ELE](https://www.ele.me/)**(可内推) 运维部工作过，目前就职于 **庖丁科技 [P.A.I](https://paodingai.com/)**(可内推)，其是一家专注于金融语义理解的人工智能公司。
+🤗 &nbsp;你好~ 我是 [**想名字多费事**](https://www.escapelife.site/)，目前生活在苏州！就职于 **同程旅行研发中心**。
 
 🌈 &nbsp;闲暇之余，听摇滚乐，但不偏颇，也听点古典。看电影，也看点理论书，勤快，但也懒散；快乐，但也为许多事情深感痛苦和愤怒；安静，但也聒噪。
 
