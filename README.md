@@ -44,8 +44,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=escapelife&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-🤗 &nbsp;你好~ 我是 [**想名字多费事**](https://www.escapelife.site/)，目前生活在苏州！就职于 **同程旅行研发中心**。
-
 
 <!--
 
@@ -66,10 +64,10 @@
  ⚡ Fun fact: ...
   -->
 
-- :smile: 字节跳动抖音部门全栈研发工程师一枚，主后端，兼前端，同时也是一枚编程知识博主..
+- :smile: 我是 [**想名字多费事**](https://www.escapelife.site/)，目前生活在苏州！就职于 **同程旅行研发中心**。
 
 
-- 🤔 双非菜鸡，8个月学C++，投94家公司，笔试54场，面试40余场，拿6个offer，最后怒拿**字节跳动SP**
+- 🤔 双非菜鸡，8个月学C++.
 
 
 - 🌱 自学经历：[逆袭？NO！只是多了一点坚持！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247490699&idx=1&sn=0f7a1ee4100a310d679f5ab84fbfa3bc&chksm=ce25e0f6f95269e08c740d212bc7b0d7a4f9a5c01b9a5fff7ed92c30f2348638a3b0c829374e&scene=178&cur_album_id=1738665691953594370#rd)
